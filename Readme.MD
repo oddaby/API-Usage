@@ -130,4 +130,4 @@ If you'd like to contribute to this project, please follow the [contribution gui
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Project Image](https://i.imgur.com/your_image.jpg)
+![Project Image](https://i.imgur.com/b27e7N0undefined.png)
