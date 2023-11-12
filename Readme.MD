@@ -134,9 +134,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 # API Testing for Beginners with Python 🚀
 
-```
+
 ![Imgur](https://i.imgur.com/b27e7N0.png)
-```
+
 
 
 
