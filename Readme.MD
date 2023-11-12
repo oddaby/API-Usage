@@ -28,11 +28,42 @@ Welcome to the API Testing for Beginners project with Python! This guide is desi
 
 Before you begin, ensure you have the following installed:
 
-- [Python](https://www.python.org/downloads/) 🐍
-- [pip](https://pip.pypa.io/en/stable/installation/) 📦
-- [pytest](https://docs.pytest.org/en/stable/getting-started.html) 🧪
-- [Requests](https://docs.python-requests.org/en/master/) 🌐
-- [API Documentation](link-to-api-docs) 📖
+
+### Python 🐍
+
+1. Download and install Python from [https://www.python.org/downloads/](https://www.python.org/downloads/).
+
+### pip 📦
+
+Pip is usually included with Python installations. To ensure it's up-to-date, run:
+
+```bash
+python -m pip install --upgrade pip
+```
+
+### pytest 🧪
+
+Install pytest using pip:
+
+```bash
+pip install pytest
+```
+
+### Requests 🌐
+
+Install the Requests library using pip:
+
+```bash
+pip install requests
+```
+
+
+```bash
+cd api-testing-for-beginners or where you placed your project
+pip install -r requirements.txt
+```
+
+These commands assume that Python is added to your system's PATH. If not, you might need to provide the full path to the Python executable (e.g., `C:\Python39\python.exe`) when running the commands.
 
 ## Getting Started
 
