@@ -55,7 +55,7 @@ These commands assume that Python is added to your system's PATH. If not, you mi
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/api-testing-for-beginners.git
+git clone https://github.com/oddaby/API-testing.git
 ```
 
 ### Install Dependencies 📦
