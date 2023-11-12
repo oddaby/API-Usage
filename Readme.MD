@@ -132,13 +132,10 @@ This project is licensed under the [MIT License](LICENSE).
 ```
 
 
-```markdown
+```
 # API Testing for Beginners with Python 🚀
 
-## Screenshot of Output
-![Test Output](https://imgur.com/b27e7N0)
-
-
-...
+[![Logo](https://imgur.com/b27e7N0)](https://imgur.com/b27e7N0)
 ```
+
 
