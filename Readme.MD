@@ -131,4 +131,14 @@ If you'd like to contribute to this project, please follow the [contribution gui
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to further customize the emojis or content based on your preferences!
+
+```markdown
+# API Testing for Beginners with Python 🚀
+
+## Screenshot of Output
+![Test Output](https://imgur.com/b27e7N0)
+
+
+...
+```
+
