@@ -6,23 +6,6 @@
 
 Welcome to the API Testing for Beginners project with Python! This guide is designed to help you get started with API testing from scratch using Python. Whether you are new to testing or just looking to explore API testing, this repository has everything you need.
 
-## Table of Contents
-
-1. [Prerequisites](#prerequisites) 🛠️
-2. [Getting Started](#getting-started) 🚀
-    - [Clone the Repository](#clone-the-repository) ⬇️
-    - [Install Dependencies](#install-dependencies) 📦
-3. [Understanding API Testing](#understanding-api-testing) 🤔
-    - [What is an API?](#what-is-an-api) ℹ️
-    - [Why API Testing?](#why-api-testing) 🌐
-4. [Setting Up Your First Test](#setting-up-your-first-test) 🏗️
-    - [Choose a Testing Framework](#choose-a-testing-framework) 🛠️
-    - [Write Your First Test](#write-your-first-test) ✍️
-5. [Running Tests](#running-tests) ▶️
-6. [Best Practices](#best-practices) 🚦
-7. [Resources](#resources) 📚
-8. [Contributing](#contributing) 🤝
-9. [License](#license) 📝
 
 ## Prerequisites
 
